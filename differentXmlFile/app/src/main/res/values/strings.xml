@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">differentXmlFile</string>
+    <string name="hello">Hello Sudip..!</string>
+</resources>

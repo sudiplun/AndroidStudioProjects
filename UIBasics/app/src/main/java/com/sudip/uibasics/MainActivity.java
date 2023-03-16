@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public void onHelloBtnClicked(View view) {
         TextView txtWelcome = findViewById(R.id.txtWelcome);
-        txtWelcome.setText("Hello Kripa Shrestha");
+        txtWelcome.setText("Hello Human Beings");
     }
 }
